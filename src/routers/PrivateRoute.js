@@ -31,12 +31,12 @@ export const PrivateRoute = (
         )
       }
     />
-    {console.log(isAuthenticated)}
+    {console.log(isAuthenticated)}     
   </div>
 );
 
 const mapStateToProps = (state) => ({
-  isAuthenticated: !!state.auth.uid, //!!state.auth.uid its means converting its to falsy value which means converting non-boolean value to boolean value.
+  isAuthenticated: !!state.auth.uid, //!!state.auth.uid its means converting its to falsy value which means converting non-boolean value to boolean value.  //react-expensify21122021
 });
 
 export default connect(mapStateToProps)(PrivateRoute);
