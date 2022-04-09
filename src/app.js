@@ -638,9 +638,9 @@ firebase.auth().onAuthStateChanged((user) => {
 //- push to both local and remote github repository
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git status
 //C:\ComputerD\react-course-projects032021\xpensify-app7>git commit -am "Add private routes"
-//- C:\ComputerD\react-course-projects032021\xpensify-app7>git push
+//- C:\ComputerD\react-course-projects032021\xpensify-app7>git push https://github.com/orishameedah/react-expensify2022.git 
 //the above command will push to remote git repository
-//C:\ComputerD\react-course-projects032021\xpensify-app7>git push heroku main
+//C:\ComputerD\react-course-projects032021\xpensify-app7>git push https://git.heroku.com/react-expensify21122021.git
 //the above command will redeploy your app to heroku web hosting site
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>heroku open
 //its will open your web on this url https://react-expensify192021.herokuapp.com/
@@ -728,9 +728,9 @@ firebase.auth().onAuthStateChanged((user) => {
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git status
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git add .
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git commit -m "Store user data in user area"
-//- C:\ComputerD\react-course-projects032021\xpensify-app7>git push
+//- C:\ComputerD\react-course-projects032021\xpensify-app7>git push https://github.com/orishameedah/react-expensify2022.git 
 //the above command will push to remote git repository
-//C:\ComputerD\react-course-projects032021\xpensify-app7>git push heroku main
+//C:\ComputerD\react-course-projects032021\xpensify-app7>git push https://git.heroku.com/react-expensify21122021.git
 //the above command will redeploy your app to heroku web hosting site
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>heroku open
 //its will open your web on this url https://react-expensify192021.herokuapp.com/
@@ -794,7 +794,7 @@ firebase.auth().onAuthStateChanged((user) => {
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git status
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git add .
 //- C:\ComputerD\react-course-projects032021\xpensify-app7>git commit -m "setup firebase Rule"
-//- C:\ComputerD\react-course-projects032021\xpensify-app7>git push
+//- C:\ComputerD\react-course-projects032021\xpensify-app7>git push 
 //the above command will push to remote git repository
 //C:\ComputerD\react-course-projects032021\xpensify-app7>git push heroku main
 //the above command will redeploy your app to heroku web hosting site
