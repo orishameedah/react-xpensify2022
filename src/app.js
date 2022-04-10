@@ -732,7 +732,7 @@ firebase.auth().onAuthStateChanged((user) => {
 //the above command will push to remote git repository
 //C:\ComputerD\react-course-projects032021\xpensify-app7>git push https://git.heroku.com/react-expensify21122021.git
 //the above command will redeploy your app to heroku web hosting site
-//- C:\ComputerD\react-course-projects032021\xpensify-app7>heroku open
+//- C:\ComputerD\react-course-projects032021\xpensify-app7>heroku open 
 //its will open your web on this url https://react-expensify192021.herokuapp.com/
 
 //Data Validation and Deployment
