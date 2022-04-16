@@ -227,3 +227,9 @@ firebase.auth().onAuthStateChanged((user) => {
 //- startup dev-server
 
 //Final Deployment
+//C:\react-course-projects032021\xpensify-app8>git status
+//C:\react-course-projects032021\xpensify-app8>git add .
+//C:\react-course-projects032021\xpensify-app8>git commit -m "Add Expense Styles"
+//C:\react-course-projects032021\xpensify-app8>git push https://github.com/orishameedah/react-expensify2022.git
+//C:\react-course-projects032021\xpensify-app8>heroku login
+//C:\react-course-projects032021\xpensify-app8>git push https://git.heroku.com/react-expensify21122021.git
