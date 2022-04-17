@@ -232,4 +232,23 @@ firebase.auth().onAuthStateChanged((user) => {
 //C:\react-course-projects032021\xpensify-app8>git commit -m "Add Expense Styles"
 //C:\react-course-projects032021\xpensify-app8>git push https://github.com/orishameedah/react-expensify2022.git
 //C:\react-course-projects032021\xpensify-app8>heroku login
+//C:\react-course-projects032021\xpensify-app8>git status
+// if it throwing err
 //C:\react-course-projects032021\xpensify-app8>git push https://git.heroku.com/react-expensify21122021.git
+
+//- create a boilerplate from xpensify-app8 for your next personal project
+//- duplicate xpensify-app8 to xpensify-app9-boilerplate
+//open in our file explorer
+//- open src/action folder remove expenses and filters
+//- open src/components folder remove AddExpensePage.j, EditExpensesPage.js, ExpenseForm.js, ExpenseList.js,
+//ExpenseListFilter.js, ExpenseSummary.js
+//- open remove playground folder
+//- open reducers folder remove expenses and filters
+//- open selectors and remove all files in it
+//- open test folders, action folder remove expense.test.js and filters.test.js
+//- test/components remove AddExpensesPage.js till the last which is ExpenseSummary
+//- test/fixtures remove expenses and filters files in it.
+//- test/reducers remove expense.test and filters.test files in it.
+//- test/selectors remove expense-total.test and expenses.test
+//- nest is to get the xpensify-app9-boilerplate working by opening
+//xpensify-app9-boilerplate in vscode then navigate to this folder on the terminal
