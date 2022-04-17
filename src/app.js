@@ -16,7 +16,7 @@ import { firebase } from "./firebase/firebase";
 // const jsx = (
 //   <Provider store={store}>
 //     <AppRouter />
-//   </Provider>
+//   </Provider> 
 // );
 
 // let hasRendered = false;
